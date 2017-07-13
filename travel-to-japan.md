@@ -12,15 +12,22 @@
 ## 준비물 
 
 ### 사야 될 것
-이름|가격|구매처|수량
--|-|-|-
-텐트|55,500원|[링크](http://11st.kr/QR/P/1336351783)|1개
-돗자리|24,750원|[링크](https://www.coupang.com/vp/products/6528434)|1개
-보조 배터리 (태양열)|19,900원|[링크](http://gmkt.kr/gz6rNm)|3개
-자전거 가방|25,000원|[링크](https://www.coupang.com/vp/products/6763475)|3개
-자전거 삼각 가방|5,900원|[링크](https://www.coupang.com/vp/products/2553388)|2개
-가방 방수 커버|2,5000원|[링크](https://www.coupang.com/vp/products/21377233)|3개
-자전거 안장 패드|6900원|[링크](http://item.gmarket.co.kr/Item?goodscode=205549181&search_keyword)|3개
+이름|가격|배송료|구매처|수량
+-|-|-|-|-
+텐트|55,500원|2,500원|[링크](http://11st.kr/QR/P/1336351783)|1개
+돗자리|24,750원|무료|[링크](https://www.coupang.com/vp/products/6528434)|1개
+보조 배터리 (태양열)|19,900원|무료|[링크](http://gmkt.kr/gz6rNm)|3개
+자전거 가방|25,000원|무료|[링크](https://www.coupang.com/vp/products/6763475)|3개
+자전거 삼각 가방|5,900원|무료|[링크](https://www.coupang.com/vp/products/2553388)|2개
+가방 방수 커버|2,500원|2,500원|[링크](https://www.coupang.com/vp/products/21377233)|3개
+자전거 안장 패드|6,900원|2,500원|[링크](http://item.gmarket.co.kr/Item?goodscode=205549181&search_keyword)|3개
+
+이름|금액
+-|-
+김진성|89,450원
+전성우|89,450원
+주민수|83,550원
+**총액**|262,450원
 
 ### 챙겨 갈 것
 * 선크림 진성이가 챙김
