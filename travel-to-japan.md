@@ -75,4 +75,4 @@
 8/4 - 8/5|금-토|도쿄 자유 여행
 
 **지도**  
-<iframe src="https://www.google.com/maps/d/embed?mid=1kG2CD8MkJcgrxBEo9VN9drOEGSY" width="640" height="480"></iframe>
+[![map](images/travel-to-japan(1).png)](https://drive.google.com/open?id=1kG2CD8MkJcgrxBEo9VN9drOEGSY&usp=sharing)
