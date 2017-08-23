@@ -80,4 +80,4 @@
 |8/6|<span style="color: red">일</span>|:airplane: 인천 공항|
 
 **지도**  
-[![map](images/travel-to-japan-(1).png)](https://drive.google.com/open?id=1kG2CD8MkJcgrxBEo9VN9drOEGSY&usp=sharing)
+[![map](images/travel-to-japan-01.png)](https://drive.google.com/open?id=1kG2CD8MkJcgrxBEo9VN9drOEGSY&usp=sharing)
